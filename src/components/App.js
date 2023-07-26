@@ -1,6 +1,6 @@
 /**
- * @author Faiyaz Shaikh <www.shtakkar@gmail.com>
- * GitHub repo: https://github.com/yTakkar/React-Instagram-Clone-2.0
+ * @author Lionel Perrault <LionelPerrault0616@gmail.com>
+ * GitHub repo: https://github.com/LionelPerrault/React-Instagram-Clone-2.0
  */
 
 import React, { Component } from 'react'

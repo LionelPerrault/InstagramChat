@@ -13,7 +13,7 @@ exports[`ModalItemInfo Component should match snapshot 1`] = `
   <span
     className="modal_it_light"
   >
-    faiyaz shaikh
+    Lionel Perrault
   </span>
 </div>
 `;

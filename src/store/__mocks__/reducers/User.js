@@ -15,7 +15,7 @@ export default {
     joined: '1480114098767',
     twitter: '',
     facebook: '',
-    github: 'https://github.com/yTakkar/',
+    github: 'https://github.com/LionelPerrault/',
     instagram: 'https://www.instagram.com/_faiyaz_shaikh',
     phone: '',
     website: '',

@@ -6,7 +6,7 @@ describe('Social-Inputs Component', () => {
   const props = {
     inputs: {
       instagram: 'https://www.instagram.com/_faiyaz_shaikh',
-      github: 'https://github.com/yTakkar/',
+      github: 'https://github.com/LionelPerrault/',
       twitter: 'https://twitter.com/shtakkar',
       facebook: 'https://www.facebook.com/profile.php?id=100009110960262',
       website: '',

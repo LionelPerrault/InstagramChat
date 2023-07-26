@@ -14,7 +14,7 @@ describe('AboutSection Component', () => {
     const tree = create(
       <AboutSection
         label="Github"
-        value="https://www.github.com/yTakkar"
+        value="https://www.github.com/LionelPerrault"
         isLink
       />
     ).toJSON()

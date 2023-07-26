@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yTakkar/React-Instagram-Clone-2.0.git"
+    "url": "git+https://github.com/LionelPerrault/React-Instagram-Clone-2.0.git"
   },
-  "author": "yTakkar <www.shtakkar@gmail.com>",
+  "author": "LionelPerrault <LionelPerrault0616@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yTakkar/React-Instagram-Clone-2.0/issues"
+    "url": "https://github.com/LionelPerrault/React-Instagram-Clone-2.0/issues"
   },
-  "homepage": "https://github.com/yTakkar/React-Instagram-Clone-2.0#readme",
+  "homepage": "https://github.com/LionelPerrault/React-Instagram-Clone-2.0#readme",
   "dependencies": {
     "animate-components": "^1.4.8",
     "axios": "^0.17.1",

@@ -58,7 +58,7 @@ exports[`About Component should match snapshot 1`] = `
             </a>
             
             <a
-              href="https://github.com/yTakkar/"
+              href="https://github.com/LionelPerrault/"
               target="_blank"
             >
               <i
@@ -169,10 +169,10 @@ exports[`About Component should match snapshot 1`] = `
             </span>
             <a
               className="a_info"
-              href="https://github.com/yTakkar/"
+              href="https://github.com/LionelPerrault/"
               target="_blank"
             >
-              https://github.com/yTakkar/
+              https://github.com/LionelPerrault/
             </a>
           </div>
           <div>

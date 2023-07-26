@@ -18,7 +18,7 @@ describe('User config tests', () => {
       username: 'testuser',
       firstname: 'testfirstname',
       surname: 'testsurname',
-      email: 'testemail@gmail.com',
+      email: 'LionelPerrault0616@gmail.com',
       password: 'testPassword',
       joined: new Date().getTime(),
       email_verified: 'no',
